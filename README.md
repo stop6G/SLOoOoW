@@ -10,6 +10,11 @@
   <img alt="Fallback image description" src="default-image.png">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark-mode-image.png.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./light-mode-image.png.png">
+</picture>
+
 Instead of rushing through the web, simulate **Starlink** jitters, **2G** dropouts, or **Satellite** latency. We even included a theoretical  fucking **6G** preset for the speed addicts, though honestly, where is the fun in that? (fuck it!) 
 Take a deep breath and **enjoy the slowness**.
 
