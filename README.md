@@ -3,7 +3,10 @@
 
 **S**ystematic **L**ag **O**ver **W**orld-wide-web... *wait... wait...*
 
-A lightweight Python wrapper for the Linux Traffic Control (`tc`) subsystem. This tool allows developers to turn their fast connection into a potato 🥔, simulating **Starlink** jitters, **2G** dropouts, or **Satellite** latency with a single click.
+A lightweight Python wrapper for the Linux Traffic Control (`tc`) subsystem. This tool allows people to turn their fast connection into a **Sanctuary of Lag** 🧘.
+
+Instead of rushing through the web, simulate **Starlink** jitters, **2G** dropouts, or **Satellite** latency. We even included a theoretical  fucking **6G** preset for the speed addicts, though honestly, where is the fun in that? (fuck it!) 
+Take a deep breath and **enjoy the slowness**.
 
 ## 🖕 Fuck Efficiency
 
