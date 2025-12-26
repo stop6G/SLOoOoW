@@ -46,7 +46,7 @@ SLOoOoW
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/stop6G/SLOWwwww.git](https://github.com/STOP6G/SLOWwwww.git)
+git clone https://github.com/STOP6G/SLOWwwww.git  
 cd SLOWwwww
 
 ```
