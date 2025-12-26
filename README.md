@@ -81,10 +81,12 @@ cd SLOWwwww
 | **2** | 2G (EDGE) | 250 kbit | 400ms | Med | Stable but very slow mobile data. |
 | **3** | 3G (HSPA) | 3 mbit | 150ms | Low | Basic mobile broadband. |
 | **4** | 4G (LTE) | 20 mbit | 50ms | None | Standard modern mobile speed. |
+| **5** | 5G (Low Latency)| 100 mbit| 10ms | None | Near perfect mobile connection. |
 | **s** | Starlink (LEO) | 150 mbit | 40ms | Med | Fast but "jittery" due to satellite handovers. |
 | **l** | Legacy Sat (GEO) | 15 mbit | 600ms | High | High latency space internet (e.g., Viasat). |
 | **w** | Public Wi-Fi | 2 mbit | 100ms | Med | Congested coffee shop / hotel Wi-Fi. |
 | **d** | Dial-up | 56 kbit | 200ms | None | Retro phone line connection. |
+| **6** | 6G (Theoretical) | 1 Tbit | 0.1ms | None | Removes all limits (Benchmark mode). |
 
 ## ⚠️ Disclaimer
 
