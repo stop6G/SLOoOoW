@@ -8,7 +8,7 @@ A lightweight Python wrapper for the Linux Traffic Control (`tc`) subsystem. Thi
 ## 🖕 Fuck Efficiency
 
 We are obsessed with "Hi-Tech.". 
-We call it "Performance." 
+We love "Performance." 
 We measure milliseconds and worship efficiency.
 The real world is a 3G signal in a basement.
 It's a crowded coffee shop Wi-Fi.
