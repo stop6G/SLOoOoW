@@ -88,7 +88,7 @@ def apply_rules(interface, rate, delay, jitter, loss):
 
 def print_menu():
     print("\n" + "="*50)
-    print(f"{'LINUX NETWORK SHAPER TOOL':^50}")
+    print(f"{'SLOoOoW - LINUX NETWORK SHAPER TOOL':^50}")
     print("="*50)
     print(f"{'PRESET':<5} {'NAME':<20} {'SPEED':<10} {'DELAY':<10}")
     print("-" * 50)
